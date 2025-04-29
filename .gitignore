@@ -1,0 +1,12 @@
+# React (Frontend)
+client/front-end/node_modules/
+client/front-end/build/
+
+# Django (Backend)
+server/backend/__pycache__/
+server/backend/db.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.env
+
